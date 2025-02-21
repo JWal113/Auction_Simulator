@@ -1,0 +1,13 @@
+name    budget  risk
+Kevin Farmer	10945	LOW
+Charles Anderson	15063	HIGH
+Todd Perry	23305	LOW
+Joshua Hamilton	67242	MEDIUM
+Jane Esparza	79497	MEDIUM
+Bridget Schneider	78236	HIGH
+Thomas Fuentes	95606	LOW
+Mark Phillips	59282	MEDIUM
+Sara Ferguson	76299	HIGH
+Dale Collins	27722	MEDIUM
+Jennifer Chung	96303	HIGH
+Dennis Pratt	26832	HIGH

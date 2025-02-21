@@ -1,0 +1,7 @@
+seller  item(s):Starting price(s)
+Bryan Hall	designer handbag:473	abstract artwork:6177	diamond ring:6857
+Kevin Price	luxury wristband:3913	vintage wine 1990:7582	broken down car:2561
+Laura Lopez	emerald ring:4077
+Susan Torres	disney collectible stamps:6671	abstract artwork:1685
+David Hart	sports car:4220	luxury collectible stamps:7302
+Douglas Diaz    old porche:1212 luxury watch:6072
